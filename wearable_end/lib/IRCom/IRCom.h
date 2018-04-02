@@ -1,0 +1,1 @@
+void setIRpin(int pin);
